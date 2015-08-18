@@ -11,6 +11,12 @@ Repositorio asignatura Electiva Básica II
 * Publicar en GitHub: https://youtu.be/D6VFF8Rsyao
 * Transmisiones día Sábado: http://goo.gl/9ktb4c
 
+## URL Clases día Sábado.
+
+#### 15 de Agosto de 2015
+
+https://youtu.be/pWIDITfwncs
+
 ### Autor
 Jorge Rubaino
 
