@@ -17,6 +17,10 @@ Repositorio asignatura Electiva Básica II
 
 https://youtu.be/pWIDITfwncs
 
+#### 22 de Agosto de 2015
+
+https://youtu.be/vtvc1Ak7GMI
+
 ### Autor
 Jorge Rubaino
 
