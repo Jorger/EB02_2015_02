@@ -1,6 +1,6 @@
 $(function()
 {
-	preguntas = [];
+	var preguntas = [];
 	var cargarJson = function()
 	{
 		var txtOpciones = "";
