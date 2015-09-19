@@ -32,7 +32,7 @@ Se puede ver la aplicación en funcionamiento en el siguiente enlace: http://goo
 
 ##Entrega
 
-Se deberá enviar la url del código versionado en GitHub, así como la ulr de despliegue publicada en Github o [Google Drive]
+Se deberá enviar la url del código versionado en GitHub, así como la url de despliegue publicada en Github o [Google Drive]
 
 ### Autor
 Jorge Rubaino [@ostjh]
