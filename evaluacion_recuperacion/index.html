@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>Adivina el Número</title>
+	<style type="text/css">
+	#rangoAdivina
+	{
+		border: 5px solid black;
+		background-color: red;
+		border-radius: 30px;
+		color: white;
+		font-size: 30px;
+		padding: 10px;
+		width: 70%;
+		box-shadow: 10px 10px 30px black;
+	}
+	#adivina, button
+	{
+		font-size: 30px;
+		width: 80%;
+		margin-top: 20px;
+		text-align: center; 
+	}
+	#intentos, #pista
+	{
+		color: blue;
+		font-size: 40px;
+		margin-top: 20px;
+	}
+	</style>
+	<script type="text/javascript" src = "script.js"></script>
+</head>
+<body>
+	<center><h1>Adivina el Número</h1></center>
+	<h3>
+		<center>
+			<div id="rangoAdivina"></div>
+			<div id="intentos"></div>
+			<hr>
+			<div id="pista"></div>
+			<hr>
+			<div>
+			<form id = "form" name = "form">
+				<input type = "number" placeholder = "Adivina el número" id = "adivina">
+				<br>
+				<button id = 'comprueba' type = "submit">Comprobar</button>
+				<button id = 'reinicia'>Nuevo Juego</button>
+			</form>
+			</div>
+		</center>
+	</h3>
+</body>
+</html>

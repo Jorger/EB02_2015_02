@@ -1,0 +1,12 @@
+[
+	{
+		"pregunta" 	: "¿Cuántos Planetas tiene el sistema Solar?", 
+		"opciones"	: [3, 10, 8, 9], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¿En qué País Nación Simón Bolivar?", 
+		"opciones"	: ["Perú", "Venezuela", "Caolombia", "Nicaragua"], 
+		"correcta"	: 3	
+	}
+]
