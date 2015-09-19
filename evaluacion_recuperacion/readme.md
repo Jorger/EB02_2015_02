@@ -1,4 +1,4 @@
-# Clase 10 - Actividad de Recuperación: Adivina el número
+# Actividad de Recuperación: Adivina el número
 
 La actividad consiste en adivinar un número en un rango dado, el cual parte desde uno (1) hasta un valor [aleatorio].
 * Valor Mínimo a adivinar (1)
