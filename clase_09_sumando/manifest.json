@@ -1,0 +1,14 @@
+{
+  "short_name": "Sumando",
+  "name": "Jorge Rubiano",  
+  "icons": [
+  				{
+  					"src": "img/icono.png",
+  					"sizes": "128x128",
+  					"type": "image/png"
+  				}
+  		   ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
