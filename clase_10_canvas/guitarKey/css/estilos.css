@@ -1,0 +1,45 @@
+body
+{
+    background-color: #403736;
+    font-family: Arial;
+    color: white;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#canvas
+{
+    /*border: 1px solid red;*/
+    /*cursor: pointer;*/
+    background-color: #F3EFE6;
+    border-radius: 15px;
+    border: 3px solid black;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color:transparent;
+}
+
+.botones
+{
+	width: 30%;
+	height: 50px;
+    background-color: #73BF43;
+	box-shadow: 0px 4px 1px 1px rgba(115, 191, 67, 0.41);
+	border: 1px solid rgba(115, 191, 67, 0.41);
+	color: white;
+	margin-top: 10px;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 55px;
+	font-size: 1em;
+	cursor: pointer;
+    font-weight: bold;
+	-webkit-tap-highlight-color:transparent;
+}
