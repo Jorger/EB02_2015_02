@@ -54,6 +54,14 @@ https://youtu.be/GIJSZCzpVEo
 
 https://youtu.be/PFy3A33djow
 
+#### 24 de Octubre de 2015
+
+https://youtu.be/796QN3ZkD3o
+
+#### 14 de Noviembre de 2015
+
+https://youtu.be/wUs4As0aaXE
+
 ### Autor
 Jorge Rubaino
 
